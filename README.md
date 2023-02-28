@@ -1,4 +1,4 @@
-<h3> BussinessonBot-Task</h3>
+<h3> BussinessOnBot-Task</h3>
 <h3> BACKEND</h3>
 To create a REST service that can fetch bank details, using the data given in the API’s query parameters.
 
